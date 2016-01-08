@@ -1,1 +1,2 @@
+import(suma)
 export(suma.dos.numero)
